@@ -1,0 +1,40 @@
+img{
+    width:190px;
+}
+
+h2{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+
+a {
+        font-family: 'Tahoma', sans-serif;
+        font-size: 14px;
+        font-weight: bold;
+        text-decoration: none;
+        background-color: #49b970;
+        color: #ffffff;
+        padding: 10px 30px;
+        border-radius: 25px;
+}
+
+
+
+p{
+    font-family: 'Tahoma', sans-serif;
+    line-height: 28px;
+    margin: 15px auto 30px auto;
+    width: 930px;
+}
+
+.container{
+    border-top: 1px solid #d5d5d5;
+    text-align: center;
+    background-color: whitesmoke;
+    padding: 50px;
+}
+
+.tituloPrincipal{
+    font-family: 'Tahoma', sans-serif;
+    margin-top: 0;
+}
