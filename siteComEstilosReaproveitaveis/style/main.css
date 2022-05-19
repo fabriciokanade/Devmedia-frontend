@@ -1,0 +1,159 @@
+/* === Estilos Globais === */
+
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.container{
+    padding: 30px 0;
+    text-align: center;
+}
+
+p{
+    margin: 10px auto;
+    width:980px;
+    text-align: justify;
+    font-size: 18px;
+    line-height: 28px;
+}
+
+span{
+    font-weight: bold;
+}
+
+/* === 1ª seção === */
+
+.header-principal{
+    background-color: #afddfb;
+}
+
+.header-principal img{
+    width: 150px;
+}
+
+.header-principal nav{
+    margin: 15px 0 25px 0;
+}
+
+.header-principal nav a{
+    font-size: 18px;
+    color: #1d1d1d;
+    text-decoration: none;
+    margin: 0 10px;
+    border-bottom: 2px solid #1d1d1d;
+}
+
+/* === 2ª seção === */
+.banner{
+    padding-top: 0;
+    margin-top: 50px;
+}
+
+/* === 3ª seção */
+
+h1 {
+    color: #1d1d1d;
+    margin-bottom: 5px;
+}
+
+h2 {
+    font-weight: normal;
+    color: #1c81c0;
+    margin-top: 0;
+}
+
+#about img{
+    width: 450px;
+}
+
+#about span{
+    color: #1d80c1;
+}
+
+/* === 4ª seção ===*/
+
+#service{
+    background-color: #1d80c1;
+}
+
+#service h1{
+    color: #ffffff;
+    font-size: 28px;
+    line-height: 42px;
+}
+
+#service p{
+    color: #ffffff;
+    line-height: 42px;
+    font-size: 22px;
+    text-align: center;
+    width: 700px
+}
+
+#service span{
+    color: #fff81b;
+}
+
+#service ul{
+    margin: 40px auto;
+    width: 135px;
+}
+
+#service ul li{
+    font-size: 22px;
+    line-height: 42px;
+    text-align: left;
+    color: #fff;
+}
+
+/* === 5ª seção === */
+#broker h1{
+    color: #1d80c1;
+    font-size: 28px;
+    line-height: 42px;
+}
+#broker span{
+    color: #1d80c1;
+}
+
+
+/* === 6ª seção === */
+#contact{
+    background-color: #1d80c1;
+}
+
+#contact p{
+    color: #ffffff;
+    background-color: #1d1d1d;
+    padding: 15px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+#contact span{
+    color: #fff81b;
+}
+
+#contact h1{
+    color: #ffffff;
+    font-size: 28px;
+    line-height: 42px;
+}
+
+#contact ul{
+    width: 210px;
+    list-style: none;
+    margin: 40px auto 40px;
+}
+
+#contact ul li{
+    margin-top: 15px;
+    text-align: center;
+    font-size: 18px;
+}
+#contact ul li a{
+    background-color: #ffffff;
+    color: #1d80c1;
+    padding: 2px 5px;
+    border-radius: 5px;
+}
